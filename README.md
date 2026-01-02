@@ -34,19 +34,6 @@
 
 ---
 
-### 📊 System Analysis (GitHub Stats)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" />
-</p>
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 📬 Get In Touch
 - **Telegram:** `@kuroya14`
 
