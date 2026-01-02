@@ -26,21 +26,14 @@ Developer yang fokus pada **System Optimization**, **Magisk Modules**, dan **Ker
 ### 📦 Featured Modules
 | Module Name | Features | Downloads |
 | :--- | :--- | :--- |
-| **EclipseCore Main** | Library penyedia binari & toolset dasar. | [[https://github.com/iannnOz/eclipsecore] |
----
-
-### 📊 Performance Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blood&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blood"/>
-</p>
+| **EclipseCore Main** | Performa. | [https://github.com/iannnOz/eclipsecore] |
 
 ---
 
 ### 🤝 Connect & Support
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_CHANNEL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Donate-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+  <a href="https://t.me/kuroya14"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/iannnOz"><img src="https://img.shields.io/badge/Donate-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
 </p>
 
 ---
