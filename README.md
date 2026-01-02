@@ -1,15 +1,11 @@
 # 🌑 EclipseCore | Android System Modding
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=000000&height=250&section=header&text=EclipseCore%20Project&fontSize=70&animation=twinkling&fontColor=ffffff" />
-</p>
-
 ## 🛠 Developer Identity
 Developer yang fokus pada **System Optimization**, **Magisk Modules**, dan **Kernel Tweaks**. EclipseCore dirancang untuk meningkatkan efisiensi dan performa Android pada level *root*.
 
 - 📱 **Target OS:** Android 10 - 16 (Magisk/KernelSU/APatch)
 - ⚙️ **Focus:** Systemless injection, Thermal control, & Performance tuning
-- status: LTS
+- **Status**: LTS
 
 ---
 
