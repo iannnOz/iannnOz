@@ -7,9 +7,9 @@
 ## 🛠 Developer Identity
 Developer yang fokus pada **System Optimization**, **Magisk Modules**, dan **Kernel Tweaks**. EclipseCore dirancang untuk meningkatkan efisiensi dan performa Android pada level *root*.
 
-- 📱 **Target OS:** Android 10 - 15 (Magisk/KernelSU/APatch)
+- 📱 **Target OS:** Android 10 - 16 (Magisk/KernelSU/APatch)
 - ⚙️ **Focus:** Systemless injection, Thermal control, & Performance tuning
-- 🛠 **Languages:** Shell (BASH), C++, Python
+- status: LTS
 
 ---
 
