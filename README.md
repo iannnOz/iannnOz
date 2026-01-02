@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Oprek%20Mode-success?style=flat&logo=linux" alt="Status" />
 </p>
 
+![Downloads](https://img.shields.io/github/downloads/iannnOz/eclipsecore/total?style=for-the-badge&color=blue)
 > `“If it’s not broken, I haven’t tweaked it enough.”`
 
 ---
