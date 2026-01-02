@@ -1,44 +1,49 @@
-# 👨‍💻 [Kuroya] | The System Tinkerer 🛠️
+# 🌑 EclipseCore | Android System Modding
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Oprek%20Mode-success?style=flat&logo=linux" alt="Status" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=000000&height=250&section=header&text=EclipseCore%20Project&fontSize=70&animation=twinkling&fontColor=ffffff" />
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/iannnOz/eclipsecore/total?style=for-the-badge&color=blue)
-> `“If it’s not broken, I haven’t tweaked it enough.”`
+## 🛠 Developer Identity
+Developer yang fokus pada **System Optimization**, **Magisk Modules**, dan **Kernel Tweaks**. EclipseCore dirancang untuk meningkatkan efisiensi dan performa Android pada level *root*.
+
+- 📱 **Target OS:** Android 10 - 15 (Magisk/KernelSU/APatch)
+- ⚙️ **Focus:** Systemless injection, Thermal control, & Performance tuning
+- 🛠 **Languages:** Shell (BASH), C++, Python
 
 ---
 
-### 🔍 Discovery & Research
-- 🐧 **OS Favorit:** [Arch Linux / Ubuntu / Windows 10]
-
----
-
-### 🛠️ Tech Stack & Gear
-**Operating Systems & Tools:**
+### 🚀 Core Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-FFFFFF?style=for-the-badge&logo=termux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-**Languages & Frameworks:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cpp,c,git,vim,vscode,pnpm,mysql" />
-  </a>
+  <img src="https://img.shields.io/badge/Magisk-00AF54?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/KernelSU-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-### 📬 Get In Touch
-- **Telegram:** `@kuroya14`
+### 📦 Featured Modules
+| Module Name | Features | Downloads |
+| :--- | :--- | :--- |
+| **EclipseCore Main** | Library penyedia binari & toolset dasar. | [[https://github.com/iannnOz/eclipsecore] |
+---
+
+### 📊 Performance Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blood&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blood"/>
+</p>
+
+---
+
+### 🤝 Connect & Support
+<p align="left">
+  <a href="https://t.me/YOUR_TELEGRAM_CHANNEL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Donate-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+</p>
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://raw.githubusercontent.com/mayhemantworld/mayhemantworld/master/assests/ping.gif" width="100">
 </p>
